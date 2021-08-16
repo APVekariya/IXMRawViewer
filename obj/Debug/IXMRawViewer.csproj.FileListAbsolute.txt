@@ -1,0 +1,15 @@
+C:\Users\Ajay\source\repos\IXMRawViewer\bin\Debug\IXMRawViewer.exe.config
+C:\Users\Ajay\source\repos\IXMRawViewer\bin\Debug\IXMRawViewer.exe
+C:\Users\Ajay\source\repos\IXMRawViewer\bin\Debug\IXMRawViewer.pdb
+C:\Users\Ajay\source\repos\IXMRawViewer\obj\Debug\IXMRawViewer.csprojAssemblyReference.cache
+C:\Users\Ajay\source\repos\IXMRawViewer\obj\Debug\MainWindow.g.cs
+C:\Users\Ajay\source\repos\IXMRawViewer\obj\Debug\App.g.cs
+C:\Users\Ajay\source\repos\IXMRawViewer\obj\Debug\IXMRawViewer_MarkupCompile.cache
+C:\Users\Ajay\source\repos\IXMRawViewer\obj\Debug\IXMRawViewer_MarkupCompile.lref
+C:\Users\Ajay\source\repos\IXMRawViewer\obj\Debug\MainWindow.baml
+C:\Users\Ajay\source\repos\IXMRawViewer\obj\Debug\IXMRawViewer.g.resources
+C:\Users\Ajay\source\repos\IXMRawViewer\obj\Debug\IXMRawViewer.Properties.Resources.resources
+C:\Users\Ajay\source\repos\IXMRawViewer\obj\Debug\IXMRawViewer.csproj.GenerateResource.cache
+C:\Users\Ajay\source\repos\IXMRawViewer\obj\Debug\IXMRawViewer.csproj.CoreCompileInputs.cache
+C:\Users\Ajay\source\repos\IXMRawViewer\obj\Debug\IXMRawViewer.exe
+C:\Users\Ajay\source\repos\IXMRawViewer\obj\Debug\IXMRawViewer.pdb
